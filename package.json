@@ -1,16 +1,21 @@
 {
   "name": "git-time-machine",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Interactive git history visualization in your terminal",
   "main": "index.js",
   "type": "module",
   "bin": {
     "git-time-machine": "./index.js"
   },
-  "keywords": ["git", "cli", "visualization", "history", "time-machine"],
+  "keywords": [
+    "git",
+    "cli",
+    "visualization",
+    "history",
+    "time-machine"
+  ],
   "author": "Rohan Pothuru",
   "license": "MIT",
-
   "scripts": {
     "start": "node index.js"
   },

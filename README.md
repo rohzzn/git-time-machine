@@ -1,14 +1,10 @@
 # Git Time Machine
 
-<div align="center">
-
 🕰️ An elegant and powerful CLI tool for visualizing git repository history with real-time analysis and beautiful formatting.
 
-<br>
 
 [Live Site](https://www.npmjs.com/package/git-time-machine)
 
-</div>
 
 ## ✨ What's New in 2.0
 
